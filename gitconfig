@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = camilaruizcruz97@gmail.com
+	name = camila ruiz
